@@ -2,7 +2,7 @@
 <!-- ================= HEADER ================= -->
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmtxbDFmYmRncTY3bzgyeXRtcTl3b3p6aXN1dml3c255cTE0cHNxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hv13U4h8Y7hEdCQ0Ik/giphy.gif" width="150" />
+  <img src="https://media.giphy.com/media/3o7TKU8RvQuomFfUUU/giphy.gif" width="150"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm I'm Ijini Makalanda</h1>
