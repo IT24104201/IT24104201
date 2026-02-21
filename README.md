@@ -60,17 +60,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/IT24104201/AIML_Project-PG18-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IT24104201&repo=AIML_Project-PG18-&theme=github_dark" />
-  </a>
-  <a href="https://github.com/IT24104201/BakeryApplicationGithub">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amandi1020&repo=BakeryApplicationGithub&theme=github_dark" />
-  </a>
-</p>
-
 <p align="center">
   <a href="https://github.com/IT24104201?tab=repositories">
     <img src="https://img.shields.io/badge/View%20All%20Repositories-Click%20Here-blue?style=for-the-badge&logo=github"/>
