@@ -66,8 +66,8 @@
   <a href="https://github.com/IT24104201/AIML_Project-PG18-">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=IT24104201&repo=AIML_Project-PG18-&theme=github_dark" />
   </a>
-  <a href="https://github.com/IT24104201/Project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amandi1020&repo=Project2&theme=github_dark" />
+  <a href="https://github.com/IT24104201/BakeryApplicationGithub">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amandi1020&repo=BakeryApplicationGithub&theme=github_dark" />
   </a>
 </p>
 
@@ -75,20 +75,6 @@
   <a href="https://github.com/IT24104201?tab=repositories">
     <img src="https://img.shields.io/badge/View%20All%20Repositories-Click%20Here-blue?style=for-the-badge&logo=github"/>
   </a>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IT24104201&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IT24104201&theme=github-dark-blue&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IT24104201&theme=github_dark" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IT24104201&theme=github_dark" width="48%" />
 </p>
 
 ---
